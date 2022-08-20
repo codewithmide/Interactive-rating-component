@@ -21,8 +21,8 @@ main {
 }
 
 .container {
-    width: 22%;
-    height: 50%;
+    width: 25%;
+    height: 52%;
     position: absolute;
     top: 50%;
     left: 50%;
@@ -112,8 +112,8 @@ button:hover {
 
 /* THANK YOU SECTION */
 .thankyou {
-    width: 22%;
-    height: 50%;
+    width: 25%;
+    height: 52%;
     position: absolute;
     top: 50%;
     left: 50%;
