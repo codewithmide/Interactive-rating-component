@@ -128,6 +128,11 @@ button:hover {
     text-align: center;
 }
 
+.logo {
+    width: 140px;
+    height: 90px;
+}
+
 .box {
     margin: 1rem 0;
     padding: 10px;
