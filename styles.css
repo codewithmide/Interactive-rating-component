@@ -151,5 +151,35 @@ button:hover {
 }
 
 .attribution a {
-    color: hsl(228, 45%, 44%);
+    color: hsl(25, 97%, 53%);
+}
+
+@media screen and (max-width: 600px) {
+    .container {
+        width: 90%;
+        height: 60%;
+        border-radius: 12px;
+        padding: 20px;
+    }
+    
+    .star {
+        padding: 8px;
+        width: 30px;
+        height: 30px;
+    }
+    
+    /* THANK YOU SECTION */
+    .thankyou {
+        width: 90%;
+        height: 60%;
+    }
+
+    .box {
+        font-size: 11px;
+    }
+
+    .logo {
+        width: 120px;
+        width: 120px;
+    }
 }
