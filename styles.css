@@ -17,6 +17,7 @@ main {
     display: inline;
     align-items: center;
     justify-content: center;
+    min-height: 100vh;
 }
 
 .container {
@@ -176,6 +177,10 @@ button:hover {
 
     .box {
         font-size: 11px;
+    }
+
+    p {
+        margin-bottom: 6rem;
     }
 
     .logo {
