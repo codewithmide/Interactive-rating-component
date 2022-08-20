@@ -40,9 +40,8 @@ main {
     background-color: hsla(216, 12%, 8%, 0.629);
 }
 
-h1 {
+h2 {
     margin: 1.3rem 0 .5rem 0;
-    font-size: 1.6rem;
     color: hsl(0, 0%, 100%);
     font-weight: 700;
 }
